@@ -12,7 +12,7 @@ The diamond industry is currently facing significant challenges, with major conc
 
 ## 2. Suggested Solutions
 
-The Industry proposed several solutions to address the industry’s challenges:
+The industry proposed several solutions to address the industry’s challenges:
 
 - **Blockchain-Based Pricing**: A decentralized, blockchain-based price list controlled by diamond bourses rather than a single entity.
 - **Committee-Led Pricing**: Formation of a committee to oversee price setting, similar to how gold prices are fixed in London.
@@ -92,3 +92,11 @@ While chemical similarities between natural diamonds and LGDs justify some form 
 - **Short-Term (1-3 years)**: Continued pressure from LGDs and economic factors could lead to stagnant or declining prices for natural diamonds. Adoption of decentralized platforms will be slow but crucial for survival.
 - **Mid-Term (3-7 years)**: The industry could split into two segments—natural diamonds as rare luxury goods and LGDs as affordable alternatives. Unified marketing efforts will be essential to maintain natural diamonds' value.
 - **Long-Term (10+ years)**: If the industry adapts and focuses on sustainability and differentiation, natural diamonds will secure their place as high-value luxury items. If not, the market for natural diamonds could shrink significantly in favor of LGDs.
+
+## 7. Reviving Consumer Interest Through Marketing
+
+The diamond industry has faced a decline in consumer interest, partially due to a reduction in global marketing efforts. A proposed solution is to implement a small fee on diamond exports to fund large-scale, global marketing campaigns aimed at reviving demand and preserving the industry's value.
+
+These marketing funds would be managed by an industry body, ensuring transparency and proper allocation of resources. The campaigns would focus on promoting the rarity, uniqueness, and enduring value of natural diamonds to consumers worldwide.
+
+This collective approach is designed to benefit all stakeholders in the diamond trade—from miners to retailers—by re-establishing the narrative around natural diamonds and stimulating renewed consumer demand.
